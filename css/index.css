@@ -9,6 +9,11 @@
   border: 1px solid black;
 }
 
+.news-item a {
+  text-decoration: initial;
+  color: initial;
+}
+
 .news-item img {
   width: 100%;
 }
