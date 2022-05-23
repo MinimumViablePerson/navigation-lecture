@@ -1,0 +1,14 @@
+.news-list {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+
+.news-item {
+  border: 1px solid black;
+}
+
+.news-item img {
+  width: 100%;
+}
